@@ -1,0 +1,14 @@
+.window {
+  border: 3px outset #d4d0c8;
+  background: #e0e0e0;
+  padding: 10px;
+  width: 300px;
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.window-title {
+  background: linear-gradient(to right, #316ac5, #6d8fd4);
+  color: white;
+  padding: 5px;
+  font-weight: bold;
+}
