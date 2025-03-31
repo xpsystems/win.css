@@ -1,0 +1,10 @@
+input, textarea {
+  border: 2px inset #7a8a99;
+  background-color: #ffffff;
+  padding: 3px;
+  font-size: 14px;
+}
+
+input:focus, textarea:focus {
+  outline: 2px solid #316ac5;
+}
